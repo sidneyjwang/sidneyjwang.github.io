@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/airport-capital-one/static/css/main.5840ba95.chunk.css",
+    "main.js": "/airport-capital-one/static/js/main.2b30e4bf.chunk.js",
+    "main.js.map": "/airport-capital-one/static/js/main.2b30e4bf.chunk.js.map",
+    "runtime-main.js": "/airport-capital-one/static/js/runtime-main.2be430f2.js",
+    "runtime-main.js.map": "/airport-capital-one/static/js/runtime-main.2be430f2.js.map",
+    "static/js/2.4fdc70a4.chunk.js": "/airport-capital-one/static/js/2.4fdc70a4.chunk.js",
+    "static/js/2.4fdc70a4.chunk.js.map": "/airport-capital-one/static/js/2.4fdc70a4.chunk.js.map",
+    "static/js/3.db1aaa47.chunk.js": "/airport-capital-one/static/js/3.db1aaa47.chunk.js",
+    "static/js/3.db1aaa47.chunk.js.map": "/airport-capital-one/static/js/3.db1aaa47.chunk.js.map",
+    "index.html": "/airport-capital-one/index.html",
+    "static/css/main.5840ba95.chunk.css.map": "/airport-capital-one/static/css/main.5840ba95.chunk.css.map",
+    "static/js/2.4fdc70a4.chunk.js.LICENSE.txt": "/airport-capital-one/static/js/2.4fdc70a4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2be430f2.js",
+    "static/js/2.4fdc70a4.chunk.js",
+    "static/css/main.5840ba95.chunk.css",
+    "static/js/main.2b30e4bf.chunk.js"
+  ]
+}
