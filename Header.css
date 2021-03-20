@@ -1,0 +1,11 @@
+.header {
+    background-color: #efefef;
+    min-height: 20vh;
+    display: flex; 
+    flex-direction: column;
+    align-items: center;
+    font-family: 'Lato';
+    justify-content: center;
+    font-size: 72px;
+    color: rgb(154, 117, 255);
+}
